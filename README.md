@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Long Mach
-- 👀 I’m interested in Computer Science, obviously ;).
-- 🌱 I’m currently learning Assembly, C, C++, Python, Rust, Flask, Flutter. 
+- Hello there 👋 
+- I currently looking for fulltime SWE position.
+- 🌱 My projects are in Python, C++, C, Assembly, Flask. 
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: long.b.mach@gmail.com
 
